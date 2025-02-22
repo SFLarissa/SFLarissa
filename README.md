@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br> 
-  <h1> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Oi! 👋🏻 Prazer , sou a Larissa! ㅤㅤ </h1> 
+  <h1> ㅤㅤㅤㅤㅤㅤㅤ Oi! 👋🏻 Prazer , sou a Larissa! ㅤㅤ </h1> 
   </div>
 
 <div>  
