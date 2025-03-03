@@ -7,6 +7,7 @@
 
 - 👩🏻‍🎓 Formada em Administração
 - 📚 Cursando Pós Graduação em Data Analytics
+- 📬 Estou aberta para novas conexões, oportunidades de aprendizado e colaborações em projetos desafiadores, Vamos Conectar!
   
 </div>
 
